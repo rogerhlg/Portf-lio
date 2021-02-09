@@ -1,5 +1,4 @@
-//Roger Henrique email:rogerhlg@outlook.com	#término 12:00
-//Amanda Scremin email:amandascremin23 
+//Roger Henrique email:rogerhlg@outlook.com	#tÃ©rmino 12:00
 #include <stdio.h>
 #include <string.h>
 
@@ -139,7 +138,7 @@ int main(){
 				fflush(stdin);
 				gets(ingrediente);
 				fflush(stdin);
-				printf("\nInsira o tempo médio da receita: ");
+				printf("\nInsira o tempo mÃ©dio da receita: ");
 				scanf("%d",&tempo);
 
 				addReceita(nome,ingrediente,tempo);
